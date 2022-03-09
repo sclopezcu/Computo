@@ -1,7 +1,7 @@
 body {
     background-image:url('../img/fondoregistro.jpg');
     background-size:cover;
-    font-family:Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    font-family:'calibri';
 }
 .logo {
     position: fixed;
@@ -29,11 +29,16 @@ body {
 }
 .usuario{text-align: center;
     border-radius: 25px;
-    background: #3d383f54;
+    background: #2f2d3065;
     padding: 15px;
     width: 400px;
-    height: 300px;
-    margin: auto;
+    height: 440px;
+    font-family: 'calibri';
+    margin-top: 30px;
+    box-shadow: 7px 13px 37px ;
+}
+.rol{
+    text-align: center;
 }
 
 
