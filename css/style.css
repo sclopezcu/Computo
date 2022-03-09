@@ -1,13 +1,39 @@
-body {background-image:url('../img/fondoregistro.jpg');
+body {
+    background-image:url('../img/fondoregistro.jpg');
     background-size:cover;
-    font-family:Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;}
-.logo {position: fixed;
+    font-family:Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+}
+.logo {
+    position: fixed;
     right: 50px;
     top: 50px;
-    width: 150px;}
-.container{margin-top: 60px;}
-.col-md-6{text-align: center;}
-.form-control{background-color: rgba(255, 255, 255, 0.438);}
-.form-select{background-color: rgba(255, 255, 255, 0.438)}
+    width: 150px;
+}
+.perfil{ 
+    width: 200px;
+}
+.container{
+    margin-top: 60px;
+}
+.col-md-6{
+    text-align: center;
+}
+.rcorner{ 
+    text-align: center;
+    border-radius: 25px;
+    background: #3d383f54;
+    padding: 15px;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+.usuario{text-align: center;
+    border-radius: 25px;
+    background: #3d383f54;
+    padding: 15px;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
 
 
