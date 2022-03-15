@@ -32,7 +32,7 @@ body {
     background: #2f2d3065;
     padding: 15px;
     width: 400px;
-    height: 440px;
+    height: 420px;
     font-family: 'calibri';
     margin-top: 30px;
     box-shadow: 7px 13px 37px ;
@@ -40,15 +40,35 @@ body {
 .rol{
     text-align: center;
 }
-.interfaz{text-align: center;
+.interfaz{
+    text-align: center;
     border-radius: 25px;
     background: #2f2d3065;
     padding: 15px;
     width: 400px;
-    height: 440px;
+    height: 470px;
     font-family: 'calibri';
     margin-top: 30px;
-    box-shadow: 7px 13px 37px ;    
+    box-shadow: 6px 11px 17px ;    
+}
+.foto-perfil{
+    margin-left: 10px;
+    margin-block-end: 25px;
+    width: 200px;
+}
+.card{
+    text-align: center;
+    border-radius: 25px;
+    background: #2f2d3065;
+    box-shadow: 6px 11px 17px ;
+    box-sizing: border-box;
+
+}
+.card-img-top{
+    border-radius: 360px;
+    width: 200px;
+    padding-top: 50px;
+    margin-left: 51px;
 }
 
 
