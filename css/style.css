@@ -70,5 +70,20 @@ body {
     padding-top: 50px;
     margin-left: 51px;
 }
+.table-user{
+    margin-top: 150px;
+}
+.style-form{
+    text-align: center;
+    border-radius: 10px;
+    background: #312b5e2f;
+    padding: 15px;
+    width: 600px;
+    height: 300px;
+    font-family: 'calibri';
+    margin-top: 30px;
+    box-shadow: 2px 4px 6px ;
+    
+}
 
 
